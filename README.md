@@ -49,6 +49,8 @@ In this project, we achieved:
 4. Find out regional features for cuisines and connect cuisine nutritients with public health data.
 5. Show the cooking time difference in each cuisine.
 
+![Poster](https://github.com/sting1000/ada-2018-project/blob/master/ADA_poster.jpg)
+
 
 # The structure of repo
 
